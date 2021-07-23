@@ -1,0 +1,23 @@
+{
+    "image": "https://ipfs.io/ipfs/QmaQQvX5KsaDwHgnzXebQKCvYA6fWfmMHiKtQF8nPC1Npm/2891.png",
+    "tokenId": 2891,
+    "name": "Weird Whales 2891",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Baby Blue"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Alien"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Cap"
+        },
+        {
+            "trait_type": "Mouth Accessory",
+            "value": "Cigarette"
+        }
+    ]
+}

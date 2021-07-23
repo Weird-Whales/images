@@ -1,0 +1,19 @@
+{
+    "image": "https://ipfs.io/ipfs/QmaQQvX5KsaDwHgnzXebQKCvYA6fWfmMHiKtQF8nPC1Npm/1258.png",
+    "tokenId": 1258,
+    "name": "Weird Whales 1258",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Eye Accessory",
+            "value": "Eye Mask"
+        }
+    ]
+}

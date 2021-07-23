@@ -1,0 +1,19 @@
+{
+    "image": "https://ipfs.io/ipfs/QmaQQvX5KsaDwHgnzXebQKCvYA6fWfmMHiKtQF8nPC1Npm/1725.png",
+    "tokenId": 1725,
+    "name": "Weird Whales 1725",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Peach"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Alien"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Viking Hat"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "image": "https://ipfs.io/ipfs/QmaQQvX5KsaDwHgnzXebQKCvYA6fWfmMHiKtQF8nPC1Npm/460.png",
+    "tokenId": 460,
+    "name": "Weird Whales 460",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Cyan"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Zombie"
+        }
+    ]
+}

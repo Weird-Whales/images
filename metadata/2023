@@ -1,0 +1,23 @@
+{
+    "image": "https://ipfs.io/ipfs/QmaQQvX5KsaDwHgnzXebQKCvYA6fWfmMHiKtQF8nPC1Npm/2023.png",
+    "tokenId": 2023,
+    "name": "Weird Whales 2023",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Viking Hat"
+        },
+        {
+            "trait_type": "Mouth Accessory",
+            "value": "Cigarette"
+        }
+    ]
+}

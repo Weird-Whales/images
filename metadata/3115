@@ -1,0 +1,23 @@
+{
+    "image": "https://ipfs.io/ipfs/QmaQQvX5KsaDwHgnzXebQKCvYA6fWfmMHiKtQF8nPC1Npm/3115.png",
+    "tokenId": 3115,
+    "name": "Weird Whales 3115",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Baby Blue"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Eye Accessory",
+            "value": "Blue Eye Shadow"
+        },
+        {
+            "trait_type": "Mouth Accessory",
+            "value": "Cigarette"
+        }
+    ]
+}

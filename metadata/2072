@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmaQQvX5KsaDwHgnzXebQKCvYA6fWfmMHiKtQF8nPC1Npm/2072.png",
+    "tokenId": 2072,
+    "name": "Weird Whales 2072",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Peach"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Eye Accessory",
+            "value": "Green Eye Shadow"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Top Hat"
+        },
+        {
+            "trait_type": "Mouth Accessory",
+            "value": "Cigarette"
+        }
+    ]
+}

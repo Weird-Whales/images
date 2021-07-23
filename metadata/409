@@ -1,0 +1,23 @@
+{
+    "image": "https://ipfs.io/ipfs/QmaQQvX5KsaDwHgnzXebQKCvYA6fWfmMHiKtQF8nPC1Npm/409.png",
+    "tokenId": 409,
+    "name": "Weird Whales 409",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Beanie"
+        },
+        {
+            "trait_type": "Mouth Accessory",
+            "value": "Cigarette"
+        }
+    ]
+}

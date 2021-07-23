@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmaQQvX5KsaDwHgnzXebQKCvYA6fWfmMHiKtQF8nPC1Npm/744.png",
+    "tokenId": 744,
+    "name": "Weird Whales 744",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Peach"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Alien"
+        },
+        {
+            "trait_type": "Eye Accessory",
+            "value": "Clown Eyes Blue"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Cap"
+        },
+        {
+            "trait_type": "Mouth Accessory",
+            "value": "Pipe"
+        }
+    ]
+}

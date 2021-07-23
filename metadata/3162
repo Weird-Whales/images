@@ -1,0 +1,19 @@
+{
+    "image": "https://ipfs.io/ipfs/QmaQQvX5KsaDwHgnzXebQKCvYA6fWfmMHiKtQF8nPC1Npm/3162.png",
+    "tokenId": 3162,
+    "name": "Weird Whales 3162",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Baby Blue"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Ape"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Top Hat"
+        }
+    ]
+}

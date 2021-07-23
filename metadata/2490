@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmaQQvX5KsaDwHgnzXebQKCvYA6fWfmMHiKtQF8nPC1Npm/2490.png",
+    "tokenId": 2490,
+    "name": "Weird Whales 2490",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Eye Accessory",
+            "value": "Clown Eyes Blue"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Viking Hat"
+        },
+        {
+            "trait_type": "Mouth Accessory",
+            "value": "Cigarette"
+        }
+    ]
+}

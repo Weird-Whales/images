@@ -1,0 +1,23 @@
+{
+    "image": "https://ipfs.io/ipfs/QmaQQvX5KsaDwHgnzXebQKCvYA6fWfmMHiKtQF8nPC1Npm/98.png",
+    "tokenId": 98,
+    "name": "Weird Whales 98",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Eye Accessory",
+            "value": "Clown Eyes Green"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Top Hat"
+        }
+    ]
+}

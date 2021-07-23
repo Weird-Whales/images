@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmaQQvX5KsaDwHgnzXebQKCvYA6fWfmMHiKtQF8nPC1Npm/1540.png",
+    "tokenId": 1540,
+    "name": "Weird Whales 1540",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Eye Accessory",
+            "value": "Eye Mask"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Tiara"
+        },
+        {
+            "trait_type": "Mouth Accessory",
+            "value": "Pipe"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "image": "https://ipfs.io/ipfs/QmaQQvX5KsaDwHgnzXebQKCvYA6fWfmMHiKtQF8nPC1Npm/1417.png",
+    "tokenId": 1417,
+    "name": "Weird Whales 1417",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Alien"
+        },
+        {
+            "trait_type": "Eye Accessory",
+            "value": "Blue Eye Shadow"
+        }
+    ]
+}

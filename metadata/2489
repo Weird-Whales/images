@@ -1,0 +1,23 @@
+{
+    "image": "https://ipfs.io/ipfs/QmaQQvX5KsaDwHgnzXebQKCvYA6fWfmMHiKtQF8nPC1Npm/2489.png",
+    "tokenId": 2489,
+    "name": "Weird Whales 2489",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Eye Accessory",
+            "value": "Clown Eyes Blue"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Fedora"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmaQQvX5KsaDwHgnzXebQKCvYA6fWfmMHiKtQF8nPC1Npm/982.png",
+    "tokenId": 982,
+    "name": "Weird Whales 982",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Ape"
+        },
+        {
+            "trait_type": "Eye Accessory",
+            "value": "Purple Eye Shadow"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Tassle Hat"
+        },
+        {
+            "trait_type": "Mouth Accessory",
+            "value": "Vape"
+        }
+    ]
+}

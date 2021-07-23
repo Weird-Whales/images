@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmaQQvX5KsaDwHgnzXebQKCvYA6fWfmMHiKtQF8nPC1Npm/3042.png",
+    "tokenId": 3042,
+    "name": "Weird Whales 3042",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Eye Accessory",
+            "value": "Clown Eyes Blue"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Tiara"
+        },
+        {
+            "trait_type": "Mouth Accessory",
+            "value": "Vape"
+        }
+    ]
+}

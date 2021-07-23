@@ -1,0 +1,19 @@
+{
+    "image": "https://ipfs.io/ipfs/QmaQQvX5KsaDwHgnzXebQKCvYA6fWfmMHiKtQF8nPC1Npm/2142.png",
+    "tokenId": 2142,
+    "name": "Weird Whales 2142",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Cyan"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Do Rag"
+        }
+    ]
+}

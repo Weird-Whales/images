@@ -1,0 +1,23 @@
+{
+    "image": "https://ipfs.io/ipfs/QmaQQvX5KsaDwHgnzXebQKCvYA6fWfmMHiKtQF8nPC1Npm/2115.png",
+    "tokenId": 2115,
+    "name": "Weird Whales 2115",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Eye Accessory",
+            "value": "Blue Eye Shadow"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Pilot Helmet"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "image": "https://ipfs.io/ipfs/QmaQQvX5KsaDwHgnzXebQKCvYA6fWfmMHiKtQF8nPC1Npm/2651.png",
+    "tokenId": 2651,
+    "name": "Weird Whales 2651",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Top Hat"
+        },
+        {
+            "trait_type": "Mouth Accessory",
+            "value": "Pipe"
+        }
+    ]
+}

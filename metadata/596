@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmaQQvX5KsaDwHgnzXebQKCvYA6fWfmMHiKtQF8nPC1Npm/596.png",
+    "tokenId": 596,
+    "name": "Weird Whales 596",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Ape"
+        },
+        {
+            "trait_type": "Eye Accessory",
+            "value": "Eye Mask"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Police Cap"
+        },
+        {
+            "trait_type": "Mouth Accessory",
+            "value": "Vape"
+        }
+    ]
+}

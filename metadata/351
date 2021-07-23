@@ -1,0 +1,23 @@
+{
+    "image": "https://ipfs.io/ipfs/QmaQQvX5KsaDwHgnzXebQKCvYA6fWfmMHiKtQF8nPC1Npm/351.png",
+    "tokenId": 351,
+    "name": "Weird Whales 351",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Alien"
+        },
+        {
+            "trait_type": "Eye Accessory",
+            "value": "Clown Eyes Blue"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Headband"
+        }
+    ]
+}

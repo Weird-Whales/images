@@ -1,0 +1,23 @@
+{
+    "image": "https://ipfs.io/ipfs/QmaQQvX5KsaDwHgnzXebQKCvYA6fWfmMHiKtQF8nPC1Npm/731.png",
+    "tokenId": 731,
+    "name": "Weird Whales 731",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Eye Accessory",
+            "value": "Purple Eye Shadow"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Headband"
+        }
+    ]
+}

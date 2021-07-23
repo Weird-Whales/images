@@ -1,0 +1,23 @@
+{
+    "image": "https://ipfs.io/ipfs/QmaQQvX5KsaDwHgnzXebQKCvYA6fWfmMHiKtQF8nPC1Npm/1916.png",
+    "tokenId": 1916,
+    "name": "Weird Whales 1916",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Cyan"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Ape"
+        },
+        {
+            "trait_type": "Eye Accessory",
+            "value": "Purple Eye Shadow"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Tassle Hat"
+        }
+    ]
+}

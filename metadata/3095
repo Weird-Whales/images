@@ -1,0 +1,23 @@
+{
+    "image": "https://ipfs.io/ipfs/QmaQQvX5KsaDwHgnzXebQKCvYA6fWfmMHiKtQF8nPC1Npm/3095.png",
+    "tokenId": 3095,
+    "name": "Weird Whales 3095",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Cyan"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Fedora"
+        },
+        {
+            "trait_type": "Mouth Accessory",
+            "value": "Pipe"
+        }
+    ]
+}

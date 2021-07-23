@@ -1,0 +1,23 @@
+{
+    "image": "https://ipfs.io/ipfs/QmaQQvX5KsaDwHgnzXebQKCvYA6fWfmMHiKtQF8nPC1Npm/866.png",
+    "tokenId": 866,
+    "name": "Weird Whales 866",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Eye Accessory",
+            "value": "Green Eye Shadow"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Fedora"
+        }
+    ]
+}
