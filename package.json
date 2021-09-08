@@ -1,0 +1,23 @@
+{
+  "name": "weird-whales-images",
+  "version": "1.0.0",
+  "description": "Weird Whales holders are given commercial rights to their specific whale. You can sell its likeness or make derivatives of it. You can give others permission to use it. It’s yours. You are free to do anything with them under a non-exclusive or exclusive license.",
+  "main": "index.js",
+  "scripts": {
+    "optimize": "node optimize-images.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dawsbot/weird-whales-images.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dawsbot/weird-whales-images/issues"
+  },
+  "homepage": "https://github.com/dawsbot/weird-whales-images#readme",
+  "dependencies": {
+    "sharp": "^0.29.1"
+  }
+}
