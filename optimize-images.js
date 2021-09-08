@@ -1,21 +1,37 @@
 const sharp = require("sharp");
 const path = require("path");
 const fs = require("fs");
-let allImages = fs.readdirSync(path.join(__dirname, "images"));
+let allFullImages = fs.readdirSync(path.join(__dirname, "images"));
 // allImages = allImages.slice(0, 3);
 // console.log({allImages});
 
 (async () => {
-  console.log(`Optimizing ${allImages.length} images...`);
+  console.log(`Optimizing ${allFullImages.length} images...`);
   await Promise.all(
-    allImages.map((imageName, index) => {
+    allFullImages.map((imageName, index) => {
       return (
         sharp(path.join(__dirname, "images", imageName))
-          // 600x600 is the size opensea uses for cryptopunks: https://opensea.io/assets/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb/7781
+          // 600x600 is the size opensea uses
           .resize({ width: 600, height: 600, kernel: "nearest" })
           .toFile(path.join(__dirname, "optimized-images", '600x600', imageName)).then(_ => {
-		if (index % 101 === 0) {
-			console.log(`Optimized ${index + 1} of ${allImages.length} images...`);
+		if (index % 200 === 0) {
+			console.log(`(600x600) Optimized ${index + 1} of ${allFullImages.length} images...`);
+		      }
+	  })
+      );
+    })
+  );
+
+  let all600Images = fs.readdirSync(path.join(__dirname, "optimized-images", '600x600'));
+  await Promise.all(
+    all600Images.map((imageName, index) => {
+      return (
+        sharp(path.join(__dirname, "images", imageName))
+          // 200x200 is
+          .resize({ width: 200, height: 200, kernel: "nearest" })
+          .toFile(path.join(__dirname, "optimized-images", '200x200', imageName)).then(_ => {
+		if (index % 200 === 0) {
+			console.log(`(200x200) Optimized ${index + 1} of ${allFullImages.length} images...`);
 		      }
 	  })
       );
