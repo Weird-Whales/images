@@ -18,6 +18,10 @@ Want the image and the metadata for whale #0?
 
 ### Image
 
+"`/optimized-images/100x100/0.png`" contains
+
+![](/optimized-images/100x100/0.png)
+
 "`/optimized-images/200x200/0.png`" contains
 
 ![](/optimized-images/200x200/0.png)
@@ -26,7 +30,7 @@ Want the image and the metadata for whale #0?
 
 ![](/optimized-images/600x600/0.png)
 
-⚠️  Never use`/images` unless you are resizing them. They are 10,000x10,000 pixels ⚠️
+⚠️ Never use`/images` unless you are resizing them. They are 10,000x10,000 pixels ⚠️
 
 ### MetaData
 
