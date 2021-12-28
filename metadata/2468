@@ -1,5 +1,5 @@
 {
-    "image": "https://ipfs.io/ipfs/QmaQQvX5KsaDwHgnzXebQKCvYA6fWfmMHiKtQF8nPC1Npm/2468.png",
+    "image": "ipfs://QmaQQvX5KsaDwHgnzXebQKCvYA6fWfmMHiKtQF8nPC1Npm/2468.png",
     "tokenId": 2468,
     "name": "Weird Whales 2468",
     "attributes": [
